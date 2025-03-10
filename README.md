@@ -8,10 +8,10 @@ A simple to-do list application built using HTML, CSS, and JavaScript.
 - Stores tasks in local storage.
 
 ## Folder Structure
-- images (Contains the images used in the project)
-  |---> checked.jpg
-  |---> unchecked.jpg
-  |---> icon.jpg
+- images/ (This folder contains the images used in the project)
+  - checked.jpg
+  - unchecked.jpg
+  - icon.jpg
 - main.html (Contains the HTML file)
 - mystles.css (Contains the CSS file for styling)
 - script.js (Contains the Javascript file for functionality)
