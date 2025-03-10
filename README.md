@@ -1,4 +1,4 @@
-# simple-to-do-list
+# Simple To Do List
 A simple to-do list application built using HTML, CSS, and JavaScript.
 
 ## Features
