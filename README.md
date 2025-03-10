@@ -14,4 +14,4 @@ A simple to-do list application built using HTML, CSS, and JavaScript.
   - icon.jpg
 - main.html (Contains the HTML file)
 - mystles.css (Contains the CSS file for styling)
-- script.js (Contains the Javascript file for functionality)
+- script.js (Contains the JavaScript file for functionality)
